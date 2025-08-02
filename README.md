@@ -47,7 +47,7 @@ JWT for authentication
 Getting Started
 
 1. Clone the Repository
-   git clone [https://github.com/your-username/personal-finance-assistant.git](https://github.com/your-username/personal-finance-assistant.git)
+   git clone [https://github.com/your-username/personal_finance-assistant.git](https://github.com/your-username/personal_finance-assistant.git)
    cd Smart\_Finance
 
 2. Backend Setup
