@@ -84,9 +84,4 @@ OCR accuracy depends on the quality of uploaded images
 
 Author Duvvuri Hanisha
 
-Created by \[Your Name]
-For questions or collaboration, feel free to reach out.
 
----
-
-Let me know if you want this pasted into your project as a `.txt` or `.md` file.
